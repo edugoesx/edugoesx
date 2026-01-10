@@ -15,7 +15,7 @@
 
 Sou um **Desenvolvedor Full-Stack** focado em agilidade e performance, especializado na integração entre código moderno e ferramentas de automação.
 
-- ☕ **Backend:** Sólida base em **Java (Spring Boot)**, estruturação de **APIs RESTful** e segurança com Spring Security.
+- ☕ **Backend:** Experiência em **Java (Spring Boot)**, estruturação de **APIs RESTful** e segurança com Spring Security.
 - 🚀 **Low-Code & Automação:** Especialista em criar arquiteturas escaláveis utilizando **Bubble.io** e orquestração de fluxos complexos com **n8n**.
 - ⚛️ **Frontend:** Desenvolvimento de interfaces reativas com **React.js, Angular e TypeScript**.
 - 🤖 **Inovação:** Implementação de soluções de IA com **LLMs (GPT/Gemini)** para automação inteligente.
