@@ -1,82 +1,73 @@
-# Olá, eu sou Filipi Moraes 👋
+# Oi, sou o Eduardo Antonio 👋
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B91C1C&width=500&lines=Engenheiro+de+Software+%26+Full+Stack;Java+Spring+Boot+%7C+React.js;UX%2FUI+Design+%26+Arquitetura;Automa%C3%A7%C3%A3o+Industrial+%26+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B91C1C&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack+%26+Low-Code;Java+Spring+Boot+%7C+React.js+%7C+Angular;Automa%C3%A7%C3%A3o+com+n8n+%26+Integra%C3%A7%C3%A3o+IA+(LLMs);Bubble.io+%7C+Supabase+%7C+SQL" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <i>Transformando problemas complexos em software escalável: do Design à Engenharia de Backend.</i>
+  <i>Transformando desafios em soluções ágeis.</i>
 </div>
 
 ---
-
 ## 🧑‍💻 Sobre Mim
 
-Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabilidade do **Design**. Com background em Automação Industrial e Análise de Sistemas, hoje foco na construção de arquiteturas robustas e interfaces intuitivas.
+Sou um **Desenvolvedor Full-Stack** focado em agilidade e performance, especializado na integração entre código moderno e ferramentas de automação.
 
-- ☕ **Backend:** Especialista em **Java (Spring Boot)**, APIs RESTful e Arquitetura de Microsserviços.
-- ⚛️ **Frontend:** Criação de interfaces Pixel-Perfect com **React, Next.js e TypeScript**.
-- 🎨 **Design:** UX/UI com foco em Design Systems (Figma).
-- ⚙️ **Engenharia:** Automação de processos com **Python, N8N, CLP e Ignition**.
-- 🌐 **Portfólio:** [filipimoraes.com](https://filipimoraes.com)
+- ☕ **Backend:** Sólida base em **Java (Spring Boot)**, estruturação de **APIs RESTful** e segurança com Spring Security.
+- 🚀 **Low-Code & Automação:** Especialista em criar arquiteturas escaláveis utilizando **Bubble.io** e orquestração de fluxos complexos com **n8n**.
+- ⚛️ **Frontend:** Desenvolvimento de interfaces reativas com **React.js, Angular e TypeScript**.
+- 🤖 **Inovação:** Implementação de soluções de IA com **LLMs (GPT/Gemini)** para automação inteligente.
+- 📋 **Metodologia:** Organização e gestão ágil de projetos utilizando **Kanban**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### • Languages
+### • Linguagens Principais
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-### • Backend & Architecture
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+### • Backend & Core
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### • Low-Code & IA
+![Bubble.io](https://img.shields.io/badge/Bubble.io-282F57?style=for-the-badge&logo=bubble.io&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GPT/Gemini](https://img.shields.io/badge/GPT%20%2F%20Gemini-412991?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ### • Frontend & Design
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-FF61F6?style=for-the-badge&logo=adobe&logoColor=white)
 
-### • Database
+### • Banco de Dados, DevOps & Ferramentas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### • DevOps, Automation & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Scrum](https://img.shields.io/badge/scrum-%230575E6.svg?style=for-the-badge&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
 ## 📫 Vamos Conversar?
 
 <div align="center">
-  <a href="https://linkedin.com/in/filipimoraes" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-antonio-goes-a04062252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/FilipiWanderley" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:filipiwms@gmail.com" target="_blank">
+  <a href="mailto:edu.goes10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://wa.me/5581995866387" target="_blank">
+  <a href="https://wa.me/5544998376102" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://filipimoraes.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
 </div>
